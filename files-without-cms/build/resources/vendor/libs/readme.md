@@ -1,0 +1,1 @@
+Copy libs resources here
