@@ -1,0 +1,7 @@
+.idea
+
+files-without-cms/node_modules/
+
+files-with-cms-wordpress/node_modules/
+
+files-without-cms/build_ignore/
